@@ -1,6 +1,6 @@
 # AMuSt-libdash
 
-This is an extension of <a href="https://github.com/bitmovin/libdash">bitmovin/libdash</a> for the <a href="https://github.com/ChristianKreuzberger/AMuSt-Simulator">Adaptive Multimedia Streaming Simulation (AMuSt) Framework</a>.
+This is an extension of [bitmovin/libdash](https://github.com/bitmovin/libdash) for the [Adaptive Multimedia Streaming Simulation (AMuSt) Framework](https://github.com/ChristianKreuzberger/AMuSt-Simulator). The extension for AMuSt can be found in the sub-directory **libdash/libdash/source/amust/**.
 
 # libdash
 
@@ -9,7 +9,7 @@ libdash is the **official reference software of the ISO/IEC MPEG-DASH standard**
 
 ## How to use
 
-Please look at the <a href="https://github.com/ChristianKreuzberger/AMuSt-Simulator/">Adaptive Multimedia Streaming Simulation Framework</a> for more details. If you are just interested in using the libdash library, please consult the <a href="https://github.com/bitmovin/libdash">bitmovin/libdash</a> github repository.
+Please refer to the information provided at the [Adaptive Multimedia Streaming Simulation (AMuSt) Framework](https://github.com/ChristianKreuzberger/AMuSt-Simulator) github repository for more details. If you are just interested in using the libdash library, please consult the [bitmovin/libdash](https://github.com/bitmovin/libdash) github repository.
 
 ### Pre-Requesits (Todo: cleanup)
 
@@ -37,6 +37,10 @@ You should have received a copy of the GNU Lesser General Public License along w
 As libdash is licensed under LGPL, changes to the library have to be published again to the open-source project, which we are doing with this github repository.
 
 
-## Acknowledgement
 
-This work (extension of libdash) was partially funded by the Austrian Science Fund (FWF) under the CHIST-ERA project CONCERT (A Context-Adaptive Content Ecosystem Under Uncertainty), project number I1402. See <a href="http://www.concert-project.org">www.concert-project.org</a> for more information about the CONCERT project.
+## Acknowledgements
+This work (the extension of libdash found in **libdash/libdash/source/amust/**) was partially funded by the Austrian Science Fund (FWF) under the CHIST-ERA project [CONCERT](http://www.concert-project.org/) 
+(A Context-Adaptive Content Ecosystem Under Uncertainty), project number I1402.
+
+Please also consider the acknowledgements for *libdash* in the [bitmovin/libdash](https://github.com/bitmovin/libdash) repository.
+
