@@ -19,7 +19,7 @@
  **/
 
 #include "adaptation-logic-rate-and-buffer-based.h"
-#include "../multimedia-player.h"
+#include "multimedia-player.h"
 
 
 namespace dash

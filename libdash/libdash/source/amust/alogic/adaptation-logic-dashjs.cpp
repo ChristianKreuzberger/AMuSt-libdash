@@ -19,7 +19,7 @@
  **/
 
 #include "adaptation-logic-dashjs.h"
-#include "../multimedia-player.h"
+#include "multimedia-player.h"
 
 
 namespace dash

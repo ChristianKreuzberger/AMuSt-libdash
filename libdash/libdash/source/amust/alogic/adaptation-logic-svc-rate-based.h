@@ -22,7 +22,7 @@
 #define DASH_RATE_BASED_ADAPTATION_LOGIC
 
 #include "adaptation-logic.h"
-#include "../multimedia-player.h"
+#include "multimedia-player.h"
 #include <stack>
 
 #define RateBasedMinBufferLevel 10.0 //Seconds

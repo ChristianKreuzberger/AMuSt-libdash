@@ -21,7 +21,7 @@
 
 #include "adaptation-logic-svc-buffer-based.h"
 
-#include "../multimedia-player.h"
+#include "multimedia-player.h"
 
 namespace dash
 {

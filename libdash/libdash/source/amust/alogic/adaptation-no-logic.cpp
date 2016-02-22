@@ -19,7 +19,7 @@
  **/
 
 #include "adaptation-no-logic.h"
-#include "../multimedia-player.h"
+#include "multimedia-player.h"
 
 #include <stdlib.h>
 

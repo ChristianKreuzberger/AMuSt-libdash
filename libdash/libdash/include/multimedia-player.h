@@ -22,7 +22,7 @@
 #define DASH_MULTIMEDIA_PLAYER
 
 #include "multimediabuffer.h"
-#include "alogic/adaptation-logic.h"
+#include "adaptation-logic.h"
 
 #include <string>
 #include <typeinfo>

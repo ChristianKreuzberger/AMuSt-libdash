@@ -19,7 +19,7 @@
  **/
 
 #include "multimedia-player.h"
-#include "alogic/adaptation-logic.h"
+
 
 
 
