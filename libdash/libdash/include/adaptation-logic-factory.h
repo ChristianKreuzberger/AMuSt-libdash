@@ -54,7 +54,7 @@ class AdaptationLogicFactory
 public:
   AdaptationLogicFactory() : AvailALogics()
   {
-    fprintf(stderr, "New adaptation logic factory created\n");
+
   }
 
 

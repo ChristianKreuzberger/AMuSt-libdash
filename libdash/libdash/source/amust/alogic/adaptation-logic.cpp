@@ -38,7 +38,7 @@ AdaptationLogic::AdaptationLogic(MultimediaPlayer* mPlayer)
 
 AdaptationLogic::~AdaptationLogic()
 {
-  std::cerr << "Adaptation Logic deconstructing..." << std::endl;
+
 }
 
 
