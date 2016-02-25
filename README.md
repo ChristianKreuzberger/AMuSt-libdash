@@ -11,6 +11,8 @@ libdash is the **official reference software of the ISO/IEC MPEG-DASH standard**
 
 Please refer to the information provided at the [Adaptive Multimedia Streaming Simulation (AMuSt) Framework](https://github.com/ChristianKreuzberger/AMuSt-Simulator) github repository for more details. If you are just interested in using the libdash library, please consult the [bitmovin/libdash](https://github.com/bitmovin/libdash) github repository.
 
+In addition we recommend looking at the [tutorial](tutorial.md) provided in here, which will tell the basics of adaptation logics and multimedia player configuration.
+
 ### Pre-Requesits (Todo: cleanup)
 
     sudo apt-get install build-essential gccxml
